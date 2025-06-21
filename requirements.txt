@@ -1,7 +1,5 @@
-# IN requirements.txt (or use !pip install...)
 streamlit
 educhain
-langchain
-langchain-community
-requests
+langchain>=0.0.197
 feedparser
+requests
